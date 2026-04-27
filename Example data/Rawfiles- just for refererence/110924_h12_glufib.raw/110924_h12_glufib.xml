@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<MsMethod InstrumentType="QTof" InstrumentModel="Select Series MRT" Version="1.0">
+    <Modes>
+        <Mode Name="Polarity" Value="Positive"/>
+        <Mode Name="OpticMode" Value="EFP"/>
+        <Mode Name="TOFMode" Value="TOF"/>
+        <Mode Name="AnalyteMode" Value="Standard"/>
+    </Modes>
+    <Settings>
+        <Setting Name="Inlet1" Value="1.0" Mapping="Inlet.Event1In.Setting" MainOnly="true"/>
+        <Setting Name="StartMass" Value="100"/>
+        <Setting Name="EndMass" Value="2000"/>
+        <Setting Name="EFPDecodingThreshold" Value="1"/>
+        <Setting Name="ExecuteLockMassTool" Value="1"/>
+        <Setting Name="ExecuteClmcTool" Value="1"/>
+        <LockMassTable>
+            <Strategy version="1"/>
+            <LockMass ref_mass_to_charge="379.09246" threshold_counts="1000" tolerance_ppm="500"/>
+            <ScanSelect function="1" period_mins="0.5" combine_time_mins="0.100"/>
+            <Subtract enabled="false"/>
+            <DataSelect function="1"/>
+            <Subtract enabled="false"/>
+            <Output tag="CLMC" outputDir="../run/data_store/"/>
+        </LockMassTable>
+        <Setting Name="MaldiXStart" Value="60.8873" Mapping="Maldi.Stage.Pattern.XStart"/>
+        <Setting Name="MaldiYStart" Value="39.8967" Mapping="Maldi.Stage.Pattern.YStart"/>
+        <Setting Name="MaldiXLength" Value="1.5904" Mapping="Maldi.Stage.Pattern.XLength"/>
+        <Setting Name="MaldiYLength" Value="1.2826" Mapping="Maldi.Stage.Pattern.YLength"/>
+        <Setting Name="MaldiXStep" Value="0.075" Mapping="Maldi.Stage.Pattern.XStep"/>
+        <Setting Name="MaldiXRate" Value="375.0000" Mapping="Maldi.Stage.Pattern.XRate"/>
+        <Setting Name="MaldiYStep" Value="0.075" Mapping="Maldi.Stage.Pattern.YStep"/>
+        <Setting Name="MaldiSlot" Value="0" Mapping="Maldi.Stage.Pattern.Slot"/>
+        <Setting Name="ScanTime" Value="0.1840"/>
+    </Settings>
+    <Function Type="MS" TimeStart="0.0" TimeEnd="604800.0">
+        <Instance InheritSettings="true">
+            <Settings>
+                <Setting Name="StartMass" Value="100"/>
+                <Setting Name="EndMass" Value="2000"/>
+            </Settings>
+        </Instance>
+    </Function>
+</MsMethod>

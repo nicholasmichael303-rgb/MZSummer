@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CLMC>
+  <Strategy version="1" />
+  <DataSelect function="1" />
+  <Subtract enabled="False" />
+  <Output tag="CLMC" outputDir="C:\Users\Administrator\Desktop" />
+</CLMC>

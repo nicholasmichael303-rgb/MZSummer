@@ -1,0 +1,190 @@
+Instrument Configuration:
+Lteff                    	48400.0
+Veff                    	7279.504
+Resolution              	200000.000
+Acquisition Device      	WatersADC
+ADC Sample Frequency (GHz)	1.35
+Average Single Ion Intensity	813.24
+Electron Mass Adjusted      	Yes
+
+Experimental Instrument Parameters
+Acquisition.MSProfile.Setting                                    	1.000
+Acquisition.T0.Setting                                           	-488.000
+CE.EnergyRamp.Setting                                            	0.000
+CE.TransferEnergyRampHeight.Setting                              	0.234
+CE.TransferEnergyRampStart.Setting                               	0.000
+CE.TransferEnergyRampStop.Setting                                	0.000
+CE.TransferEnergyRampTime.Setting                                	0.000
+DRE.AttenuateOn.Setting                                          	0.000
+DRE.CollectorBias.Setting                                        	20.000
+DRE.CollectorPulse.Setting                                       	8.000
+DRE.StopperBias.Setting                                          	20.000
+DRE.StopperPulse.Setting                                         	8.000
+DRE.transmission.Setting                                         	20.000
+Detector.MCPDetectorVoltage.Setting                              	1.773
+DriftCell.PostArrayBias.Setting                                  	0.500
+DriftCell.PostArrayGradient.Setting                              	0.500
+DriftCell.PostTrapBias.Setting                                   	0.500
+DriftCell.PostTrapGradient.Setting                               	0.500
+DriftCell.PreTransBias.Setting                                   	0.000
+DriftCell.PreTransGradient.Setting                               	0.500
+DriftCell.RF1.Setting                                            	200.000
+DriftCell.RF2.Setting                                            	200.000
+FFP.DeflectY.Setting                                             	593.000
+FFP.DeflectZ.Setting                                             	225.000
+FFP.DetectorIn.Voltage.Setting                                   	5.000
+FFP.Drift.Voltage.Setting                                        	6.000
+FFP.Mirror1.Voltage.Setting                                      	4.310
+FFP.Mirror2.Voltage.Setting                                      	1.571
+FFP.Mirror3.Voltage.Setting                                      	456.720
+FFP.Mirror4.Voltage.Setting                                      	6.000
+FFP.Mirror5.Voltage.Setting                                      	11.520
+FFP.OADrift.Setting                                              	6.000
+FFP.OALens.Setting                                               	8.900
+FFP.PLens1.Setting                                               	155.000
+FFP.PLens23.Setting                                              	132.500
+FFP.PLensBlock.Setting                                           	6.775
+FFP.Pull2Voltage.Setting                                         	1210.000
+FFP.PullVoltage.Setting                                          	1350.000
+FFP.PushVoltage.Setting                                          	1370.000
+Gas.APIGasOn.Setting                                             	0.000
+Gas.CollGasN2.Setting                                            	1.200
+Gas.CollisionGasSelection.Setting                                	1.000
+Gas.IonGuideGasSwitch.Setting                                    	0.000
+Gas.MaldiGasSwitch.Setting                                       	1.000
+Instrument.CollisionEnergy.Setting                               	6.000
+Instrument.CollisionEnergyTransfer.Setting                       	6.000
+Maldi.Aperture0.Setting                                          	5.000
+Maldi.Extraction.Setting                                         	10.000
+Maldi.HexRFGain.Setting                                          	0.000
+Maldi.HexRFLimit.Setting                                         	600.000
+Maldi.HexRFOffset.Setting                                        	350.000
+Maldi.HexapoleDC.Setting                                         	10.000
+Maldi.LaserFireRate.Setting                                      	1000.000
+Maldi.NDFilterPosition.Setting                                   	400.000
+Maldi.NDFilterSolenoid.Setting                                   	0.000
+Maldi.SamplePlate.Setting                                        	0.000
+Maldi.ZMoveRequest.Setting                                       	3.000
+Quad.HMResolution.Setting                                        	15.000
+Quad.IonEnergy.Setting                                           	0.400
+Quad.LMResolution.Setting                                        	4.900
+Quad.MSDwellTime1.Setting                                        	4.000
+Quad.MSDwellTime2.Setting                                        	90.000
+Quad.MSFixedMass.Setting                                         	150.000
+Quad.MSMass1.Setting                                             	100.000
+Quad.MSMass2.Setting                                             	900.000
+Quad.MSMass3.Setting                                             	900.000
+Quad.MSTime1.Setting                                             	1.000
+Quad.MSTime2.Setting                                             	5.000
+Quad.Prefilter.Setting                                           	2.000
+Quad.ms1_zv_pulse_length_dac.Setting                             	20.000
+RTM.MaldiMFC.SP.Setting                                          	350.000
+Source.CapillaryVoltage.Setting                                  	0.000
+Source.ConeGasFlow.Setting                                       	0.000
+Source.DesolvationGasFlow.Setting                                	0.000
+Source.DesolvationTemperature.Setting                            	250.000
+Source.NebuliserGasFlow.Setting                                  	6.000
+Source.ProbeTemperature.Setting                                  	20.000
+Source.ReferenceCapillary.Setting                                	0.000
+Source.SourceTemperature.Setting                                 	100.000
+Stepwave.Aperture1.Setting                                       	3.000
+Stepwave.Aperture2.Setting                                       	0.000
+Stepwave.IonGuideRF.Setting                                      	350.000
+Stepwave.RFOffset.Setting                                        	200.000
+Stepwave.RampRegister.Setting                                    	0.000
+Stepwave.RampScanTime.Setting                                    	0.000
+Stepwave.SW2Offset.Setting                                       	10.000
+Stepwave.SampleConeVoltage.Setting                               	0.000
+Stepwave.SourceOffset.Setting                                    	0.000
+Stepwave.Twave2Bias.Setting                                      	0.300
+Stepwave.Twave2FlushInhibitTime.Setting                          	0.100
+Stepwave.Twave2FlushRefillValue.Setting                          	0.400
+Stepwave.Twave2FlushTime.Setting                                 	0.100
+Stepwave.Twave2FlushValue.Setting                                	0.400
+Stepwave.Twave2Height.Setting                                    	0.400
+Stepwave.Twave2RFAmplitudeRampDelay.Setting                      	0.000
+Stepwave.Twave2RFAmplitudeRampLimit.Setting                      	0.000
+Stepwave.Twave2RFAmplitudeRampMode.Setting                       	1.000
+Stepwave.Twave2RFAmplitudeRampSpan.Setting                       	0.000
+Stepwave.Twave2Velocity.Setting                                  	150.000
+Stepwave.transfer1_entrance_offset.Setting                       	20.000
+System1.Acceleration1.Setting                                    	40.000
+System1.Acceleration2.Setting                                    	0.000
+System1.Aperture2.Setting                                        	35.000
+System1.Grid.Setting                                             	0.100
+System1.Pull2Bias.Setting                                        	180.000
+System1.SLens1.Setting                                           	30.000
+System1.SLens1X.Setting                                          	0.000
+System1.SLens1Z.Setting                                          	0.000
+System1.SLens2.Setting                                           	30.000
+System1.SLens3.Setting                                           	130.000
+System1.SLens3X.Setting                                          	0.200
+System1.SLens3Z.Setting                                          	-4.000
+System1.StaticOffset.Setting                                     	70.000
+TofADC.AmplitudeThreshold.Setting                                	212.000
+TofADC.DCThreshold.Setting                                       	2.376
+TofADC.PulseWidth.Setting                                        	3.000
+TofADC.REMPulseEnd.Setting                                       	0.000
+TofADC.REMPulseStart.Setting                                     	0.000
+TofADC.SaturationLevel.Setting                                   	65535.000
+TofADC.SaturationMinTransients.Setting                           	15.000
+TofADC.ThresholdRefOffset.Setting                                	80.000
+TofADC.TransientWidth.Setting                                    	2.000
+Transfer.Channel0OFFSET.Setting                                  	0.500
+Transfer.ControlREGISTER.Setting                                 	0.000
+Transfer.EnhancedControlREGISTER.Setting                         	0.000
+Transfer.EntranceOutputOFFSET.Setting                            	2.000
+Transfer.ExitOutputOFFSET.Setting                                	2.000
+Transfer.RFGain.Setting                                          	3.000
+Transfer.RFLimit.Setting                                         	800.000
+Transfer.RFOffset.Setting                                        	800.000
+Transfer.RFRampFinal.Setting                                     	535.000
+Transfer.RFRampInitial.Setting                                   	50.000
+TransferRF.ManualMode.Setting                                    	1.000
+TransferRF.RampMode.Setting                                      	1.000
+Trap.EntranceOutputOFFSET.Setting                                	2.000
+Trap.ExitOutputOFFSET.Setting                                    	0.000
+Trap.FlushInhibitPeriod.Setting                                  	1.000
+Trap.FlushPeriod.Setting                                         	2.000
+Trap.FlushPulseHeight.Setting                                    	1.000
+Trap.PulseHeight.Setting                                         	0.200
+Trap.RFLimit533.Setting                                          	533.000
+Trap.RFOffset533.Setting                                         	250.000
+Trap.TrapdcOFFSET.Setting                                        	-4.000
+Trap.Velocity.Setting                                            	300.000
+Vacuum.BackingPiraniMillibar.Readback                            	4.5129e-01
+Vacuum.LockPiraniMillibar.Readback                               	6.5004e-01
+Vacuum.SourcePiraniMillibar.Readback                             	1.5822e-03
+Vacuum.TofPenningMillibar.Readback                               	2.8265e-08
+Vacuum.TransferPiraniMillibar.Readback                           	1.3284e-02
+Vacuum.TransportPenningMillibar.Readback                         	3.8764e-06
+Vacuum.TrapPiraniMillibar.Readback                               	1.8814e-03
+Voltage.Bias5.Setting                                            	0.800
+
+Function Parameters - Function 1 - TOF MS FUNCTION
+ADC Sample Frequency (GHz)                   	1.35
+ADC Pusher Period (us)                       	187.0
+AnalyteMode                                  	Standard
+ECDMode                                      	None
+EnhanceMode                                  	NONE
+FragMode                                     	None
+FrequencyMode                                	2400
+MSMSMode                                     	MS
+OpticMode                                    	MRT
+Decoding Threshold                           	Automatic
+Polarity                                     	Positive
+QuadMode                                     	8000
+SIDMode                                      	CID
+SourceMode                                   	MALDI
+TOFMode                                      	TOF
+pDREMode                                     	SID
+Start Mass                                   	100
+End Mass                                     	2000
+Scan Time                                    	0.1840
+Start Time                                   	0
+End Time                                     	604800.0000
+ISD                                          	0.0110
+CCS Calibration                              	No
+[COLLISION ENERGY]
+Using Auto Trap MS Collision Energy (eV)     	6.0000
+Using Auto Transfer MS Collision Energy (eV) 	6.0000

@@ -1,0 +1,196 @@
+Processing file: 10021_EFib_MS1_H1_1
+Base Peak Intensity Threshold: 400000.0
+m/z Range: 100.0 - 4000.0
+Minimum Intensity for m/z: 10.0
+
+Scan	Base Peak m/z	Base Peak Intensity	Included/Excluded
+1	1570.73853	205776.00	Excluded (Base peak below threshold)
+2	379.11359	1081733.00	Included
+3	234.02834	3513924.00	Included
+4	212.04585	5903668.00	Included
+5	212.04585	5399652.00	Included
+6	234.02890	6325028.00	Included
+7	234.02890	5205040.00	Included
+8	212.04585	4070682.00	Included
+9	379.11359	1624166.00	Included
+10	172.05133	3369000.00	Included
+11	234.02890	2452368.00	Included
+12	212.04585	3362210.00	Included
+13	212.04585	2722418.00	Included
+14	212.04585	2942856.00	Included
+15	172.05133	2883218.00	Included
+16	379.11359	2083828.00	Included
+17	172.05133	3091512.00	Included
+18	379.11359	2634016.00	Included
+19	172.05133	3287006.00	Included
+20	172.05133	2158784.00	Included
+21	172.05133	2521900.00	Included
+22	172.05133	2029574.00	Included
+23	172.05133	2316704.00	Included
+24	172.05133	2071415.00	Included
+25	172.05133	2424702.00	Included
+26	172.05133	2466652.00	Included
+27	172.05133	2691466.00	Included
+28	212.04585	2468982.00	Included
+29	212.04585	2125614.00	Included
+30	234.02834	2486614.00	Included
+31	212.04585	3266694.00	Included
+32	234.02834	4069158.00	Included
+33	212.04585	3970144.00	Included
+34	212.04585	1644676.00	Included
+35	212.04585	934751.00	Included
+36	379.11359	225634.00	Excluded (Base peak below threshold)
+37	234.02890	919059.00	Included
+38	234.02890	2211220.00	Included
+39	212.04585	926450.00	Included
+40	172.05133	401677.00	Included
+41	212.04585	623324.00	Included
+42	212.04585	673405.00	Included
+43	379.11359	735249.00	Included
+44	379.11359	1102312.00	Included
+45	379.11359	700564.00	Included
+46	379.11359	648123.00	Included
+47	379.11359	518839.00	Included
+48	172.05133	557085.00	Included
+49	172.05133	716944.00	Included
+50	172.05133	492662.00	Included
+51	379.11359	484687.00	Included
+52	172.05133	631047.00	Included
+53	172.05180	510784.00	Included
+54	379.11359	712723.00	Included
+55	172.05133	1137932.00	Included
+56	172.05133	332708.00	Excluded (Base peak below threshold)
+57	172.05180	727370.00	Included
+58	172.05133	141303.00	Excluded (Base peak below threshold)
+59	401.09650	52236.00	Excluded (Base peak below threshold)
+60	172.05180	434296.00	Included
+61	379.11359	201552.00	Excluded (Base peak below threshold)
+62	379.11359	639354.00	Included
+63	379.11359	536082.00	Included
+64	172.05133	1022774.00	Included
+65	379.11359	553078.00	Included
+66	379.11359	430329.00	Included
+67	234.02890	889611.00	Included
+68	172.05133	635997.00	Included
+69	234.02890	1296945.00	Included
+70	234.02890	1252046.00	Included
+71	212.04585	657300.00	Included
+72	234.02890	3319318.00	Included
+73	212.04585	2763506.00	Included
+74	379.11359	396520.00	Excluded (Base peak below threshold)
+75	172.05133	837512.00	Included
+76	379.11359	640271.00	Included
+77	379.11359	506103.00	Included
+78	212.04585	600374.00	Included
+79	172.05133	817420.00	Included
+80	379.11359	751311.00	Included
+81	172.05133	945503.00	Included
+82	172.05133	567741.00	Included
+83	172.05180	837592.00	Included
+84	172.05133	1285529.00	Included
+85	172.05180	704820.00	Included
+86	172.05133	202778.00	Excluded (Base peak below threshold)
+87	172.05180	768031.00	Included
+88	172.05180	689141.00	Included
+89	172.05180	414469.00	Included
+90	172.05180	605343.00	Included
+91	172.05133	890718.00	Included
+92	172.05180	178285.00	Excluded (Base peak below threshold)
+93	172.05133	291876.00	Excluded (Base peak below threshold)
+94	172.05133	145277.00	Excluded (Base peak below threshold)
+95	212.04585	350019.00	Excluded (Base peak below threshold)
+96	379.11359	436922.00	Included
+97	172.05133	689489.00	Included
+98	172.05133	522262.00	Included
+99	172.05133	825164.00	Included
+100	172.05133	514799.00	Included
+101	379.11359	404176.00	Included
+102	172.05133	574331.00	Included
+103	172.05133	479896.00	Included
+104	212.04585	1158777.00	Included
+105	234.02890	2947234.00	Included
+106	234.02890	2747338.00	Included
+107	234.02890	1699323.00	Included
+108	212.04585	2197178.00	Included
+109	379.11359	503753.00	Included
+110	172.05133	282930.00	Excluded (Base peak below threshold)
+111	172.05133	328830.00	Excluded (Base peak below threshold)
+112	172.05133	84533.00	Excluded (Base peak below threshold)
+113	172.05133	88592.00	Excluded (Base peak below threshold)
+114	401.09650	45572.00	Excluded (Base peak below threshold)
+115	172.05133	242102.00	Excluded (Base peak below threshold)
+116	172.05133	307566.00	Excluded (Base peak below threshold)
+117	172.05133	769396.00	Included
+118	172.05133	175155.00	Excluded (Base peak below threshold)
+119	172.05133	409133.00	Included
+120	172.05133	149573.00	Excluded (Base peak below threshold)
+121	172.05133	567856.00	Included
+122	172.05133	290903.00	Excluded (Base peak below threshold)
+123	172.05133	152034.00	Excluded (Base peak below threshold)
+124	172.05133	117870.00	Excluded (Base peak below threshold)
+125	172.05133	358667.00	Excluded (Base peak below threshold)
+126	172.05133	660158.00	Included
+127	401.09650	12986.00	Excluded (Base peak below threshold)
+128	172.05133	92033.00	Excluded (Base peak below threshold)
+129	172.05133	217620.00	Excluded (Base peak below threshold)
+130	172.05133	271816.00	Excluded (Base peak below threshold)
+131	172.05133	276726.00	Excluded (Base peak below threshold)
+132	172.05133	225387.00	Excluded (Base peak below threshold)
+133	172.05133	102408.00	Excluded (Base peak below threshold)
+134	172.05133	458675.00	Included
+135	172.05133	180021.00	Excluded (Base peak below threshold)
+136	172.05133	394742.00	Excluded (Base peak below threshold)
+137	172.05133	211552.00	Excluded (Base peak below threshold)
+138	172.05133	328937.00	Excluded (Base peak below threshold)
+139	234.02834	464104.00	Included
+140	234.02834	1689079.00	Included
+141	234.02890	1710087.00	Included
+142	234.02890	1312510.00	Included
+143	234.02890	2239954.00	Included
+144	234.02890	480578.00	Included
+145	234.02890	34503.00	Excluded (Base peak below threshold)
+146	401.09650	9087.00	Excluded (Base peak below threshold)
+147	401.09650	14226.00	Excluded (Base peak below threshold)
+148	401.09579	11221.00	Excluded (Base peak below threshold)
+149	401.09650	9642.00	Excluded (Base peak below threshold)
+150	401.09650	9028.00	Excluded (Base peak below threshold)
+151	401.09579	10238.00	Excluded (Base peak below threshold)
+152	401.09579	8368.00	Excluded (Base peak below threshold)
+153	401.09650	13210.00	Excluded (Base peak below threshold)
+154	337.13742	5924.00	Excluded (Base peak below threshold)
+155	401.09650	9321.00	Excluded (Base peak below threshold)
+156	401.09650	7365.00	Excluded (Base peak below threshold)
+157	401.09650	8134.00	Excluded (Base peak below threshold)
+158	401.09650	12229.00	Excluded (Base peak below threshold)
+159	401.09650	8910.00	Excluded (Base peak below threshold)
+160	401.09650	10896.00	Excluded (Base peak below threshold)
+161	401.09650	10838.00	Excluded (Base peak below threshold)
+162	172.05180	13437.00	Excluded (Base peak below threshold)
+163	401.09650	19036.00	Excluded (Base peak below threshold)
+164	172.05133	40065.00	Excluded (Base peak below threshold)
+165	401.09650	9999.00	Excluded (Base peak below threshold)
+166	401.09650	14928.00	Excluded (Base peak below threshold)
+167	401.09650	16270.00	Excluded (Base peak below threshold)
+168	401.09650	10727.00	Excluded (Base peak below threshold)
+169	401.09650	10434.00	Excluded (Base peak below threshold)
+170	172.05133	46322.00	Excluded (Base peak below threshold)
+171	401.09650	23420.00	Excluded (Base peak below threshold)
+172	357.10486	12450.00	Excluded (Base peak below threshold)
+173	212.04585	91323.00	Excluded (Base peak below threshold)
+174	234.02890	230795.00	Excluded (Base peak below threshold)
+175	234.02890	368295.00	Excluded (Base peak below threshold)
+176	212.04585	2547220.00	Included
+177	234.02890	1131200.00	Included
+178	212.04585	719495.00	Included
+179	234.02890	200345.00	Excluded (Base peak below threshold)
+180	401.09650	4390.00	Excluded (Base peak below threshold)
+181	401.09650	11864.00	Excluded (Base peak below threshold)
+182	401.09650	9005.00	Excluded (Base peak below threshold)
+183	401.09650	5961.00	Excluded (Base peak below threshold)
+184	401.09579	6509.00	Excluded (Base peak below threshold)
+185	401.09579	7026.00	Excluded (Base peak below threshold)
+186	401.09650	7904.00	Excluded (Base peak below threshold)
+187	401.09650	7099.00	Excluded (Base peak below threshold)
+188	401.09650	11185.00	Excluded (Base peak below threshold)
+
+Total included scans: 111

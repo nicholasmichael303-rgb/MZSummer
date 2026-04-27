@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LockMassTable>
+  <Strategy version="1" />
+  <LockMass ref_mass_to_charge="861.07936" threshold_counts="1000" tolerance_ppm="200" />
+  <ScanSelect function="1" period_mins="0.5" combine_time_mins="0.1" />
+  <Subtract enabled="false" />
+</LockMassTable>

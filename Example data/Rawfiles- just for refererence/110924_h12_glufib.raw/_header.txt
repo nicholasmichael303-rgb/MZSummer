@@ -1,0 +1,7 @@
+$$ Acquired Name: 110924_h12_glufib
+$$ Acquired Date: 11-Sep-2024
+$$ Acquired Time: 13:39:57
+$$ Instrument: MRT#HDB046
+
+$$ Sample Description: Raw output
+$$ Cal Function 1: 0.000000000000000E+00,1.000000000000000E+00,T1

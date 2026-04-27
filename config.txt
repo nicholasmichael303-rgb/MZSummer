@@ -1,0 +1,28 @@
+# Processing Parameters
+
+# Base Peak Intensity Threshold
+base_peak_intensity=10000
+
+# m/z Range to Process
+mz_min=200
+mz_max=4000
+
+# Filter Settings
+filter_type=intensity
+intensity_threshold=1000
+sn_threshold=3
+
+# Minimum Intensity of m/z Output
+min_intensity=100
+
+# Decimal Places for m/z values
+decimal_places=5
+
+#Lock Mass Correction
+lock_mass_correction_var = True
+lock_mass_mz = 609.28066
+lock_mass_window = 20
+lock_mass_min_intensity = 10000
+
+
+

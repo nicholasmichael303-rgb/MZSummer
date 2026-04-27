@@ -1,0 +1,7 @@
+$$ Acquired Name: 10021_EFib_MS1_H1_1
+$$ Acquired Date: 10-Sep-2024
+$$ Acquired Time: 13:47:21
+$$ Instrument: MRT#HDB046
+
+$$ Sample Description: 10021_EFib_MS1_H1_H_1
+$$ Cal Function 1: 0.000000000000000E+00,1.000000000000000E+00,T1
